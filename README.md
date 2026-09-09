@@ -74,7 +74,7 @@
 
 <div align="center">
 
-![NishadNYC](https://github-stats.nishad.top/api/card-with-avatar?username=nishadnyc&theme=%7B%22backgroundColor%22%3A%22%230f172a%22%2C%22textColor%22%3A%22%23e2e8f0%22%2C%22accentColor%22%3A%22%230ea5e9%22%2C%22borderColor%22%3A%22%231e293b%22%2C%22waterColor%22%3A%22%230ea5e9%22%2C%22streakColor%22%3A%22%2306b6d4%22%7D)
+![henry-jackson](https://github-stats.nishad.top/api/card-with-avatar?username=henry-jackson&theme=%7B%22backgroundColor%22%3A%22%230f172a%22%2C%22textColor%22%3A%22%23e2e8f0%22%2C%22accentColor%22%3A%22%230ea5e9%22%2C%22borderColor%22%3A%22%231e293b%22%2C%22waterColor%22%3A%22%230ea5e9%22%2C%22streakColor%22%3A%22%2306b6d4%22%7D)
 
 </div>
 
@@ -82,7 +82,7 @@
 
 <div align="center">
 
-![NishadNYC](https://github-stats.nishad.top/api/card-with-avatar?username=nishadnyc&theme=%7B%22backgroundColor%22%3A%22%23581c87%22%2C%22textColor%22%3A%22%23f3e8ff%22%2C%22accentColor%22%3A%22%23a855f7%22%2C%22borderColor%22%3A%22%237c3aed%22%2C%22waterColor%22%3A%22%23a855f7%22%2C%22streakColor%22%3A%22%23c084fc%22%7D)
+![gijzelaerr](https://github-stats.nishad.top/api/card-with-avatar?username=gijzelaerr&theme=%7B%22backgroundColor%22%3A%22%23581c87%22%2C%22textColor%22%3A%22%23f3e8ff%22%2C%22accentColor%22%3A%22%23a855f7%22%2C%22borderColor%22%3A%22%237c3aed%22%2C%22waterColor%22%3A%22%23a855f7%22%2C%22streakColor%22%3A%22%23c084fc%22%7D)
 
 </div>
 
@@ -90,7 +90,7 @@
 
 <div align="center">
 
-![NishadNYC](https://github-stats.nishad.top/api/card-with-avatar?username=nishadnyc&theme=%7B%22backgroundColor%22%3A%22%23451a03%22%2C%22textColor%22%3A%22%23fef3c7%22%2C%22accentColor%22%3A%22%23f59e0b%22%2C%22borderColor%22%3A%22%2392400e%22%2C%22waterColor%22%3A%22%23f59e0b%22%2C%22streakColor%22%3A%22%23dc2626%22%7D)
+![viktorgardart](https://github-stats.nishad.top/api/card-with-avatar?username=viktorgardart&theme=%7B%22backgroundColor%22%3A%22%23451a03%22%2C%22textColor%22%3A%22%23fef3c7%22%2C%22accentColor%22%3A%22%23f59e0b%22%2C%22borderColor%22%3A%22%2392400e%22%2C%22waterColor%22%3A%22%23f59e0b%22%2C%22streakColor%22%3A%22%23dc2626%22%7D)
 
 </div>
 
@@ -98,7 +98,7 @@
 
 <div align="center">
 
-![NishadNYC](https://github-stats.nishad.top/api/card-with-avatar?username=nishadnyc&theme=%7B%22backgroundColor%22%3A%22%231a1b27%22%2C%22textColor%22%3A%22%23ffffff%22%2C%22accentColor%22%3A%22%2300d4aa%22%2C%22borderColor%22%3A%22%2330363d%22%2C%22waterColor%22%3A%22%2300d4aa%22%2C%22streakColor%22%3A%22%23ff6b6b%22%7D)
+![fedetrim](https://github-stats.nishad.top/api/card-with-avatar?username=fedetrim&theme=%7B%22backgroundColor%22%3A%22%231a1b27%22%2C%22textColor%22%3A%22%23ffffff%22%2C%22accentColor%22%3A%22%2300d4aa%22%2C%22borderColor%22%3A%22%2330363d%22%2C%22waterColor%22%3A%22%2300d4aa%22%2C%22streakColor%22%3A%22%23ff6b6b%22%7D)
 
 </div>
 
